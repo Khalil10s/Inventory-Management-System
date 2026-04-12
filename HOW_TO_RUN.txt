@@ -1,0 +1,20 @@
+INVENTORY MANAGEMENT SYSTEM
+
+Run the application:
+1. Open the project folder in VS Code.
+2. Open a terminal in the project directory.
+3. Run .\run_app.bat
+
+Run the automated regression test:
+1. Open a terminal in the project directory.
+2. Run .\run_tests.bat
+
+Menu summary:
+- 1: Add product
+- 2: Edit product
+- 3: Delete product
+- 4: View all products
+- 5: Search products
+- 6: Save inventory
+- 7: Load inventory
+- 0: Save and exit
